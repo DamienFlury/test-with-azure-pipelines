@@ -1,0 +1,17 @@
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\tests\TestWithAzurePipelines.Main.Tests\obj\Debug\netcoreapp2.1\TestWithAzurePipelines.Main.Tests.csprojAssemblyReference.cache
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\tests\TestWithAzurePipelines.Main.Tests\obj\Debug\netcoreapp2.1\TestWithAzurePipelines.Main.Tests.csproj.CoreCompileInputs.cache
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\tests\TestWithAzurePipelines.Main.Tests\obj\Debug\netcoreapp2.1\TestWithAzurePipelines.Main.Tests.AssemblyInfoInputs.cache
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\tests\TestWithAzurePipelines.Main.Tests\obj\Debug\netcoreapp2.1\TestWithAzurePipelines.Main.Tests.AssemblyInfo.cs
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\tests\TestWithAzurePipelines.Main.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\tests\TestWithAzurePipelines.Main.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\tests\TestWithAzurePipelines.Main.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\tests\TestWithAzurePipelines.Main.Tests\bin\Debug\netcoreapp2.1\TestWithAzurePipelines.Main.Tests.deps.json
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\tests\TestWithAzurePipelines.Main.Tests\bin\Debug\netcoreapp2.1\TestWithAzurePipelines.Main.Tests.runtimeconfig.json
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\tests\TestWithAzurePipelines.Main.Tests\bin\Debug\netcoreapp2.1\TestWithAzurePipelines.Main.Tests.runtimeconfig.dev.json
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\tests\TestWithAzurePipelines.Main.Tests\bin\Debug\netcoreapp2.1\TestWithAzurePipelines.Main.Tests.dll
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\tests\TestWithAzurePipelines.Main.Tests\bin\Debug\netcoreapp2.1\TestWithAzurePipelines.Main.Tests.pdb
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\tests\TestWithAzurePipelines.Main.Tests\bin\Debug\netcoreapp2.1\TestWithAzurePipelines.Main.dll
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\tests\TestWithAzurePipelines.Main.Tests\bin\Debug\netcoreapp2.1\TestWithAzurePipelines.Main.pdb
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\tests\TestWithAzurePipelines.Main.Tests\obj\Debug\netcoreapp2.1\TestWithAzurePipelines.Main.Tests.csproj.CopyComplete
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\tests\TestWithAzurePipelines.Main.Tests\obj\Debug\netcoreapp2.1\TestWithAzurePipelines.Main.Tests.dll
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\tests\TestWithAzurePipelines.Main.Tests\obj\Debug\netcoreapp2.1\TestWithAzurePipelines.Main.Tests.pdb

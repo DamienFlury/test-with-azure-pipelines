@@ -1,0 +1,9 @@
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\src\TestWithAzurePipelines.Main\bin\Debug\netstandard2.0\TestWithAzurePipelines.Main.deps.json
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\src\TestWithAzurePipelines.Main\bin\Debug\netstandard2.0\TestWithAzurePipelines.Main.dll
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\src\TestWithAzurePipelines.Main\bin\Debug\netstandard2.0\TestWithAzurePipelines.Main.pdb
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\src\TestWithAzurePipelines.Main\obj\Debug\netstandard2.0\TestWithAzurePipelines.Main.csprojAssemblyReference.cache
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\src\TestWithAzurePipelines.Main\obj\Debug\netstandard2.0\TestWithAzurePipelines.Main.csproj.CoreCompileInputs.cache
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\src\TestWithAzurePipelines.Main\obj\Debug\netstandard2.0\TestWithAzurePipelines.Main.AssemblyInfoInputs.cache
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\src\TestWithAzurePipelines.Main\obj\Debug\netstandard2.0\TestWithAzurePipelines.Main.AssemblyInfo.cs
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\src\TestWithAzurePipelines.Main\obj\Debug\netstandard2.0\TestWithAzurePipelines.Main.dll
+C:\Users\fluryd\source\git\private\test-with-azure-pipelines\src\TestWithAzurePipelines.Main\obj\Debug\netstandard2.0\TestWithAzurePipelines.Main.pdb
