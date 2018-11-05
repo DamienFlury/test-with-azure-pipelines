@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TestWithAzurePipelines.Console
+namespace TestWithAzurePipelines.App
 {
     class Program
     {

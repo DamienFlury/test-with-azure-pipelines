@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fluryd\\source\\git\\private\\test-with-azure-pipelines\\src\\TestWithAzurePipelines.Console\\TestWithAzurePipelines.Console.csproj",
-      "projectName": "TestWithAzurePipelines.Console",
-      "projectPath": "C:\\Users\\fluryd\\source\\git\\private\\test-with-azure-pipelines\\src\\TestWithAzurePipelines.Console\\TestWithAzurePipelines.Console.csproj",
+      "projectUniqueName": "C:\\Users\\fluryd\\source\\git\\private\\test-with-azure-pipelines\\src\\TestWithAzurePipelines.App\\TestWithAzurePipelines.App.csproj",
+      "projectName": "TestWithAzurePipelines.App",
+      "projectPath": "C:\\Users\\fluryd\\source\\git\\private\\test-with-azure-pipelines\\src\\TestWithAzurePipelines.App\\TestWithAzurePipelines.App.csproj",
       "packagesPath": "C:\\Users\\fluryd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fluryd\\source\\git\\private\\test-with-azure-pipelines\\src\\TestWithAzurePipelines.Console\\obj\\",
+      "outputPath": "C:\\Users\\fluryd\\source\\git\\private\\test-with-azure-pipelines\\src\\TestWithAzurePipelines.App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
