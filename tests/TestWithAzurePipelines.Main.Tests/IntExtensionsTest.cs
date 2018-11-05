@@ -36,6 +36,7 @@ namespace TestWithAzurePipelines.Main.Tests
         [InlineData(200, false)]
         [InlineData(23, true)]
         [InlineData(5, true)]
+        [InlineData(4, true)]
         public void IsPrimeTest(int number, bool expected) {
             Assert.Equal(number.IsPrime(), expected);
         }
